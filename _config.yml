@@ -1,0 +1,12 @@
+url: "https://nirds.cs.odu.edu"
+baseurl: ""
+title: "NIRDS Lab"
+lang: "en"
+
+header_pages:
+  - team.md
+  - research.md
+  - publications.html
+  - grants.md
+  - equipments.md
+  - datasets.md

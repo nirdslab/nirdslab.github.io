@@ -1,0 +1,17 @@
+- type: "Referred Journal, Conference & Workshop Publications"
+  items:
+      - authors: "Sampath Jayarathna, Frank Shipman"
+        title: "Analysis and Modeling of Unified User Interests"
+        info: "18th International Conference on Information Reuse and Integration (IRI), San Diego, CA"
+        date: "August 04-06, 2017"
+        publisher: "ACM"
+        link: "https://dl.acm.org/citation.cfm?id=3197072"
+
+      - authors: "Lakmal Meegahapola, Roshan Alwis, Eranga Nimalarathna, Vijini Mallawaarachchi, Dulani Meedeniya, Sampath Jayarathna"
+        title: "Detection of Change Frequency in Web Pages to Optimize Server-based Scheduling"
+        info: "17th International Conference on Advances in ICT for Engineering Regions (ICTer), Colombo, Sri Lanka"
+        date: "September 07-08, 2017"
+        publisher: "IEEE"
+        link: "https://ieeexplore.ieee.org/document/8257791"
+- type: "Abstracts, Posters & Technical Reports"
+  items:
