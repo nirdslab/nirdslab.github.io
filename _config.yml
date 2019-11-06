@@ -6,7 +6,7 @@ lang: "en"
 header_pages:
   - team.md
   - research.md
-  - publications.html
+  - publications.md
   - grants.md
   - equipments.md
   - datasets.md
