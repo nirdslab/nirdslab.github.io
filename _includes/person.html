@@ -1,8 +1,75 @@
-<div class="card m-2" style="width: 12rem;">
-    <img src="{{include.member.img | default: '/assets/img/team/placeholder.png'}}" style="width: 12rem;" class="card-img-top" alt="DP">
-    <div class="card-body">
-        <h5 class="card-title">{{include.member.name}}</h5>
-        <h6 class="card-subtitle mb-2 text-muted">{{include.member.title}}</h6>
-        <p class="card-text">{{include.member.interests}}</p>
-    </div>
+<!-- <div class="row" id="faculty">
+	<div class="col-lg-12">
+		<h2 class="page-header">
+			Faculty<a href="#" class="page-top"
+				><i class="fas fa-chevron-circle-up"></i
+			></a>
+		</h2>
+	</div>
+
+	<div class="col-lg-4 col-sm-6 text-center">
+		<img
+			class="img-circle img-responsive img-center"
+			src="img/chirag.jpg"
+			alt=""
+		/>
+		<h3><a href="http://chiragshah.org/">Chirag Shah</a></h3>
+		<p>Lab Director, University of Washington</p>
+		<p class="text-muted">
+			<em>Information Seeking/Retrieval; Social media; Data Science</em>
+		</p>
+	</div>
+	<div class="col-lg-4 col-sm-6 text-center">
+		<img
+			class="img-circle img-responsive img-center"
+			src="img/belkin.png"
+			alt=""
+		/>
+		<h3><a href="http://wp.comminfo.rutgers.edu/belkin/">Nick Belkin</a></h3>
+		<p>Rutgers University</p>
+		<p class="text-muted">
+			<em>Human Information Behavior; Human-Computer Interaction</em>
+		</p>
+	</div> -->
+
+<link rel="shortcut icon" type="image/x-icon" href="img/icon.ico" />
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="" />
+<meta name="author" content="" />
+
+<title>InfoSeeking | People</title>
+
+<!-- Bootstrap Core CSS -->
+<link href="css/bootstrap.min.css" rel="stylesheet" />
+
+<!-- Custom CSS -->
+<link href="css/modern-business.css" rel="stylesheet" />
+
+<!-- Custom Fonts -->
+<link
+	href="font-awesome/css/font-awesome.min.css"
+	rel="stylesheet"
+	type="text/css"
+/>
+<link
+	rel="stylesheet"
+	href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+	integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+	crossorigin="anonymous"
+/>
+
+<div class="col-lg-4 col-sm-6 text-center">
+	<img
+		src="{{include.member.img | default: '/assets/img/team/placeholder.png'}}"
+		style="border-radius: 90%;"
+		alt=""
+	/>
+
+	<div class="card-body">
+		<h5>{{include.member.name}}</h5>
+		<h6>{{include.member.title}}</h6>
+		<p>{{include.member.interests}}</p>
+	</div>
 </div>
