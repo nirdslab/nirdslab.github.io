@@ -1,7 +1,9 @@
-url: "https://nirds.cs.odu.edu"
-baseurl: ""
-title: "NIRDS Lab"
-lang: "en"
+url: 'https://nirds.cs.odu.edu'
+baseurl: ''
+title: 'NIRDS Lab'
+lang: 'en'
+future: true
+timezone: TIMEZONE
 
 header_pages:
   - team.md

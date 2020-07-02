@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Welcome"
+title: 'Welcome'
 ---
 
 ## NIRDS Lab
+
 Neuro Information Retrieval and Data Science
