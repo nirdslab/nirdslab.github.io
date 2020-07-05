@@ -3,20 +3,33 @@ layout: default
 title: 'Team'
 ---
 
-<p style=" border-bottom: 1px solid #eee; font-family: inherit; font-weight: 500; line-height: 1.1; color: inherit;"></p>
+<style>
+    .btn-info {
+        background-color: #337ab7;
+        border-color: #2e6da4;
+    }
+    .category-header {
+        border-bottom: 1px solid #eee;
+        font-weight: 500;
+    }
+    .up-icon {
+        float: right;
+        color: #337ab7;
+    }
+</style>
 
-<div >
+<div class="py-2">
 {% for team in site.data.team %}
-<a class="btn btn-primary" href="#categories" role="button" style=" background-color: #337ab7; border-color:#2e6da4;">{{team.category }}</a>
+<a class="btn btn-info m-1" href="#{{ team.category }}" role="button">{{ team.category }}</a>
 {% endfor %}
 </div>
 
 {% for team in site.data.team %}
 
-<div class="col-lg-12" id ="categories">
+<div class="col-lg-12" id="categories">
 
-<h2 class="page-header"  style="padding-bottom: 9px; margin: 40px 0 20px; border-bottom: 1px solid #eee;border-bottom: 1px solid #eee; font-family: inherit; font-weight: 500; line-height: 1.1; color: inherit;">{{ team.category }}
-<a href="#" class="page-top" style=" float:right; color: #337ab7; "><i class="fas fa-chevron-circle-up"></i></a></h2>
+<h2 id="{{team.category}}" class="pt-3 pb-2 mx-2 category-header">{{ team.category }}
+<a href="#" class="up-icon"><i class="fas fa-chevron-circle-up"></i></a></h2>
 
 </div>
 <div class="row p-2">
