@@ -7,11 +7,25 @@ title: "Publications"
 <ul style="text-align: justify;">
     {% for pub in pubs.items %}
     <li>
-        {{pub.authors}},
-        <strong>{{pub.title}}</strong>,
-        <i>{{pub.info}}, {{pub.date}}</i>
-        ({{pub.publisher}})
-        <a href="{{pub.link}}" target="_blank">[Link]</a>
+        {% if pub.authors != "" %}
+            {{pub.authors}},
+        {% endif %}
+        {% if pub.title != "" %}
+            <strong>{{pub.title}}</strong>,
+        {% endif %}   
+        {% if pub.info != "" %}
+            <i>{{pub.info}}</i>,
+        {% endif %}
+        {% if pub.date != "" %} 
+            <i>{{pub.date}}</i>
+        {% endif %}    
+        {% if pub.publisher != "" %}
+            ({{pub.publisher}})
+        {% endif %}
+        {% if pub.link != "" %}
+            {% assign link = pub.link %}
+            <a href="{{pub.link}}" target="_blank">[Link]</a>
+        {% endif %}    
     </li>
     {% endfor %}
 </ul>
