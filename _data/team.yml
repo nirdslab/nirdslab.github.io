@@ -1,74 +1,74 @@
-- category: "Faculty"
+- category: 'Faculty'
   members:
-    - name: "Sampath Jayarathna"
-      img: "/assets/img/team/sampath.jpg"
-      title: "Lab Director, CS faculty"
-      interests: "Neuro-IR, Trafficking, Eye-tracking"
-- category: "PhD Students"
+    - name: 'Sampath Jayarathna'
+      img: '/assets/img/team/sampath.jpg'
+      title: 'Lab Director, CS faculty'
+      interests: 'Neuro-IR, Trafficking, Eye-tracking'
+- category: 'PhD Students'
   members:
-    - name: "Yasith Jayawardana"
-      img: ""
-      title: "CS PhD Student"
-      interests: "Metadata, Multi Sensory Data, ASD"
-    - name: "Gavindya Jayawardena"
-      img: ""
-      title: "CS PhD Student"
-      interests: "Eye Tracking, ADHD"
-    - name: "Bhanuka Mahanama"
-      img: ""
-      title: "CS PhD Student"
-      interests: "Assisted Learning, AR/VR"
-- category: "Masters Students"
+    - name: 'Yasith Jayawardana'
+      img: ''
+      title: 'CS PhD Student'
+      interests: 'Metadata, Multi Sensory Data, ASD'
+    - name: 'Gavindya Jayawardena'
+      img: ''
+      title: 'CS PhD Student'
+      interests: 'Eye Tracking, ADHD'
+    - name: 'Bhanuka Mahanama'
+      img: ''
+      title: 'CS PhD Student'
+      interests: 'Assisted Learning, AR/VR'
+- category: 'Masters Students'
   members:
-    - name: "Nada Alghofaili"
-      img: "/assets/img/team/nada.jpg"
-      title: "CS Masters Student"
-      interests: "Human Trafficking, Personas"
-    - name: "Diana Lin"
-      img: "/assets/img/team/diana.jpg"
-      title: "CS Masters Student"
-      interests: "EEG, recommender systems"
-    - name: "Sobiga Shanmugathasan"
-      img: "/assets/img/team/sobiga.jpg"
-      title: "CS Masters Student"
-      interests: "Oculomotor plant, classifications"
-    - name: "Shubhangi Shimpi"
-      img: "/assets/img/team/shubhangi.jpg"
-      title: "CS Masters Student"
-      interests: "Epileptic seizure prediction"
-    - name: "Sashi Thapaliya"
-      img: "/assets/img/team/sashi.jpg"
-      title: "CS Masters Student"
-      interests: "Autism and oculomotor plant"
-- category: "Undergraduate Students"
+    - name: 'Nada Alghofaili'
+      img: '/assets/img/team/nada.jpg'
+      title: 'CS Masters Student'
+      interests: 'Human Trafficking, Personas'
+    - name: 'Diana Lin'
+      img: '/assets/img/team/diana.jpg'
+      title: 'CS Masters Student'
+      interests: 'EEG, recommender systems'
+    - name: 'Sobiga Shanmugathasan'
+      img: '/assets/img/team/sobiga.jpg'
+      title: 'CS Masters Student'
+      interests: 'Oculomotor plant, classifications'
+    - name: 'Shubhangi Shimpi'
+      img: '/assets/img/team/shubhangi.jpg'
+      title: 'CS Masters Student'
+      interests: 'Epileptic seizure prediction'
+    - name: 'Sashi Thapaliya'
+      img: '/assets/img/team/sashi.jpg'
+      title: 'CS Masters Student'
+      interests: 'Autism and oculomotor plant'
+- category: 'Undergraduate Students'
   members:
-    - name: "Joanna Cao"
-      img: "/assets/img/team/joanna.jpg"
-      title: "Freshman Student"
-      interests: "Trafficking and Autism"
-    - name: "Bryan Cepeda"
-      img: ""
-      title: "Freshman Student"
-      interests: "Mobile Camera Privacy"
-    - name: "Lei Pei"
-      img: "/assets/img/team/lei.jpg"
-      title: "Freshman Student"
-      interests: "Data Science"
-    - name: "Micheal Huluf"
-      img: "/assets/img/team/micheal.jpg"
-      title: "CS Senior Project Student"
-      interests: "Eye movement classifications"
-    - name: "Cesar Pedroza"
-      img: "/assets/img/team/cesar.jpg"
-      title: "CS Senior Project Student"
-      interests: "EEG, Mobile Applications"
-- category: "Visitors"
+    - name: 'Joanna Cao'
+      img: '/assets/img/team/joanna.jpg'
+      title: 'Freshman Student'
+      interests: 'Trafficking and Autism'
+    - name: 'Bryan Cepeda'
+      img: ''
+      title: 'Freshman Student'
+      interests: 'Mobile Camera Privacy'
+    - name: 'Lei Pei'
+      img: '/assets/img/team/lei.jpg'
+      title: 'Freshman Student'
+      interests: 'Data Science'
+    - name: 'Micheal Huluf'
+      img: '/assets/img/team/micheal.jpg'
+      title: 'CS Senior Project Student'
+      interests: 'Eye movement classifications'
+    - name: 'Cesar Pedroza'
+      img: '/assets/img/team/cesar.jpg'
+      title: 'CS Senior Project Student'
+      interests: 'EEG, Mobile Applications'
+- category: 'Visitors'
   members:
-    - name: "Waleed Karim"
-      img: "/assets/img/team/waleed.jpg"
-      title: "Summer REU, Citrus College"
-      interests: "Wearable, mobile development"
-    - name: "Ricky Kim"
-      img: "/assets/img/team/ricky.jpg"
-      title: "Summer REU, Cypress College"
-      interests: "Wearable, mobile development"
+    - name: 'Waleed Karim'
+      img: '/assets/img/team/waleed.jpg'
+      title: 'Summer REU, Citrus College'
+      interests: 'Wearable, mobile development'
+    - name: 'Ricky Kim'
+      img: '/assets/img/team/ricky.jpg'
+      title: 'Summer REU, Cypress College'
+      interests: 'Wearable, mobile development'
