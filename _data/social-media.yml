@@ -1,0 +1,11 @@
+twitter:
+  id: 'NirdsLab'
+  href: 'https://twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square 2x'
+
+github:
+  id: 'nirdslab'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
