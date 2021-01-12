@@ -18,6 +18,10 @@
       img: '/assets/img/team/bhanuka.png'
       title: 'CS PhD Student'
       interests: 'Assisted Learning, AR/VR'
+    - name: 'Bathsheba Farrow'
+      img: '/assets/img/team/bathsheba.png'
+      title: 'CS PhD Student'
+      interests: 'PTSD, EEG, Eye-Tracking'    
 - category: 'Masters Students'
   members:
     - name: 'Nada Alghofaili'
