@@ -27,6 +27,14 @@
   interests: 'Assisted Learning, AR/VR'
   url: cs.odu.edu/~bhanuka
   category: phd-student
+  
+- bathsheba-farrow :
+  name: 'Bathsheba Farrow'
+  img: '/assets/img/team/bathsheba.png'
+  title: 'CS PhD Student'
+  interests: 'PTSD, EEG, Eye Tracking'
+  url: cs.odu.edu/~bnelson
+  category: phd-student
 
 # - name: 'Nada Alghofaili'
 #   img: '/assets/img/team/nada.jpg'
