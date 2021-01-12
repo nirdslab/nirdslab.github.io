@@ -30,21 +30,27 @@ Muse is a powerful, compact electroencephalography (EEG) system. By leveraging i
 
 Emotiv Insight is a 5-channel mobile EEG headset that records brainwaves and translates them into meaningful data. Designed for extended use in field research, BCI and advanced self assessment use-cases, Insight boasts advanced electronics that are fully optimized to produce clean, robust signals anytime, anywhere.
 
+## CGX Quick-30 Electroencephalography (EEG) headset
+
+![img5](/assets/img/cgx-eeg.jpg){:width="150rem"}
+
+CGX Quick-30 is a wireless, battery operated, dry sensor EEG headset covering the full 10-20 montage with 30 channels. The headset provides research grade signal quality and is ideally suited for general-purpose EEG and ERP research in laboratory and field environments.
+
 ## Tobii EyeX eye tracker
 
-![img5](/assets/img/tobii-eyex.jpg){:width="150rem"}
+![img6](/assets/img/tobii-eyex.jpg){:width="150rem"}
 
 It's a specialized input device designed to allow certain aspects of the computing experience to be controlled by your eyes. The EyeX uses infrared LEDs and cameras to see your face and track what your eyes are looking at on-screen. That information is used by the EyeX software to control cursor movement on the desktop or camera orientation in games, to give just two examples.
 
 ## NeuLog Galvanic Skin Response (GSR)
 
-![img6](/assets/img/gsr.jpg){:width="150rem"}
+![img7](/assets/img/gsr.jpg){:width="150rem"}
 
 NeuLog galvanic skin response (GSR) logger sensor measures changes in the skin’s conductivity, especially fingers, due to stimulus, such as sudden noise, smell, touch, and pain. The logger sensor can be used to study physiological and psychological relationships and responses to stimuli, lie detection, and for human biology demonstrations for further research. The logger sensor has an attached GSR probes (power and ground) to detect conductivity changes, and two nylon finger connectors for attaching to the subject.
 
 ## Assortment of other equipments at the lab
 
-![img7](/assets/img/equipments.png){:width="150rem"}
+![img8](/assets/img/equipments.png){:width="150rem"}
 
 Other equipments available for students use:
 
