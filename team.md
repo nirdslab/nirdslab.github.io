@@ -3,6 +3,7 @@ layout: default
 title: 'Team'
 ---
 
+
 <style>
     .btn-info {
         background-color: #337ab7;

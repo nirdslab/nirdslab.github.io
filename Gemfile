@@ -6,4 +6,3 @@ gem 'nokogiri', '1.10.9'
 
 gem "jekyll", "~> 3.8"
 gem 'tzinfo-data', '1.2020.1'
-    
