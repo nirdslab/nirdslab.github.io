@@ -16,6 +16,19 @@
 
 - type: "<br />Journal Publications"
   items:
+
+      - authors: "Gavindya Jayawardena and Sampath Jayarathna"
+        title: "Automated Filtering of Eye Movements using Dynamic AOI in Multiple Granularity Levels"
+        info: "International Journal of Multimedia Data Engineering and Management, 2020. [Invited Journal Paper - IEEE IRI 2020] (in press)"
+        date: "2020"
+        publisher: "IGI-Global IJMDEM"
+
+      - authors: "Senuri De Silva, Sanuwani Dayarathna, Gangani Ariyarathne, Dulani Meedeniya, and Sampath Jayarathna"
+        title: "Computational Decision Support System for ADHD Identification"
+        info: " International Journal of Automation and Computing, 2020. [Journal Paper], Impact Factor: 2.29, (in press)"
+        date: "2020"
+        publisher: "Springer IJAC"
+
       - authors: "Dilantha Haputhanthri, Gunavaran Brihadiswaran, Sahan Gunathilaka, Dulani Meedeniya, Sampath Jayarathna, Mark Jaime, and Christopher Harshaw"
         title: "Integration of Facial Thermography in EEG-based Classification of ASD"
         info: "International Journal of Automation and Computing, 2020. [Journal Paper], Impact Factor: 2.29, (in press)"
@@ -67,6 +80,14 @@
 
 - type: "<br />Peer-Reviewed Conference Publications"
   items:
+
+      - authors: "Gavindya Jayawardena and Sampath Jayarathna"
+        title: "Automated Filtering of Eye Gaze Metrics from Dynamic Areas of Interest"
+        info: "21st IEEE International Conference on Information Reuse and Integration for Data Science (IRI), 2020. (in press)"
+        date: "2020"
+        publisher: "IEEE IRI"
+        link: "https://www.cs.odu.edu/~sampath/publications/conferences/2020/IRI2020_Gavindya.pdf"
+
       - authors: "Bhanuka Mahanama, Yasith Jayawardana, and Sampath Jayarathna"
         title: "Gaze-Net: Appearance-Based Gaze Estimation using Capsule Networks"
         info: "11th Augmented Human International Conference, 2020. (in press)"
@@ -293,6 +314,14 @@
             
 - type: "<br />Peer-Reviewed Posters (Conference) and workshop Publications"
   items:
+  
+      - authors: "Yasith Jayawardana, Alexander C. Nwala, Gavindya Jayawardena, Jian Wu, Sampath Jayarathna, Michael Nelson, C. Lee Giles"
+        title: "Modeling Updates of Scholarly Webpages Using Archived Data"
+        info: "BigData'20 Computational Archival Science (in press)"
+        date: "2020"
+        publisher: "Big Data CAS"
+        link: "" 
+      
       - authors: "Yasith Jayawardana, and Sampath Jayarathna"
         title: "Streaming Analytics and Workflow Automation for DFS"
         info: "Proceedings of the 20th ACM/IEEE-CS Joint Conference on Digital Libraries, Wuhan, Hubei, P. R. China"

@@ -24,6 +24,12 @@
       interests: 'PTSD, Physiological Sensors'    
 - category: 'Masters Students'
   members:
+    - name: 'Matt Gray'
+      img: '/assets/img/team/mattgray.jpg'
+      title: 'ECE Masters Student'
+      interests: 'HCI, Physiological Sensors, Working Memory Capacity Detection'
+- category: 'Alumni'
+  members:
     - name: 'Nada Alghofaili'
       img: '/assets/img/team/nada.jpg'
       title: 'CS Masters Student'
@@ -44,12 +50,6 @@
       img: '/assets/img/team/sashi.jpg'
       title: 'CS Masters Student'
       interests: 'Autism and oculomotor plant'
-    - name: 'Matt Gray'
-      img: '/assets/img/team/mattgray.jpg'
-      title: 'ECE Masters Student'
-      interests: 'HCI, Physiological Sensors, Working Memory Capacity Detection'
-- category: 'Undergraduate Students'
-  members:
     - name: 'Joanna Cao'
       img: '/assets/img/team/joanna.jpg'
       title: 'Freshman Student'
@@ -72,6 +72,8 @@
       interests: 'EEG, Mobile Applications'
 - category: 'Visitors'
   members:
+    - name: 'Isuru Gunawardena'
+      title: 'Highschool student'
     - name: 'Waleed Karim'
       img: '/assets/img/team/waleed.jpg'
       title: 'Summer REU, Citrus College'
