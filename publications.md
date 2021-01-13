@@ -3,7 +3,7 @@ layout: default
 title: "Publications"
 ---
 {% for pubs in site.data.publications %}
-<h3>{{ pubs.type }}</h3>
+<h3 style="margin-top: 1em;">{{ pubs.type }}</h3>
 <ul style="text-align: justify;">
     {% for pub in pubs.items %}
     <li>
@@ -14,7 +14,7 @@ title: "Publications"
             <strong>{{pub.title}}</strong>,
         {% endif %}   
         {% if pub.info != "" %}
-            <i>{{pub.info}}</i>,
+            <i>{{pub.info | markdownify}}</i>,
         {% endif %}
         {% if pub.date != "" %} 
             <i>{{pub.date}}</i>

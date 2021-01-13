@@ -1,4 +1,4 @@
-- type: "<br />Book Chapters"
+- type: "Book Chapters"
   items:
     - authors: "Anne Michalek, Gavindya Jayawardena, and Sampath Jayarathna"
       title: "Predicting ADHD using Eye Gaze Metrics Indexing Working Memory Capacity"
@@ -14,7 +14,7 @@
       publisher: "IGI-Global"
       link: "https://www.igi-global.com/book/computational-models-biomedical-reasoning-problem/207261#:~:text=Computational%20Models%20for%20Biomedical%20Reasoning%20and%20Problem%20Solving%20is%20a,of%20various%20diseases%20and%20disorders"
 
-- type: "<br />Journal Publications"
+- type: "Journal Publications"
   items:
       - authors: "Dilantha Haputhanthri, Gunavaran Brihadiswaran, Sahan Gunathilaka, Dulani Meedeniya, Sampath Jayarathna, Mark Jaime, and Christopher Harshaw"
         title: "Integration of Facial Thermography in EEG-based Classification of ASD"
@@ -65,7 +65,7 @@
         publisher: "ACM TAP"
         link: "https://dl.acm.org/doi/abs/10.1145/2536764.2536774"
 
-- type: "<br />Peer-Reviewed Conference Publications"
+- type: "Peer-Reviewed Conference Publications"
   items:
       - authors: "Bhanuka Mahanama, Yasith Jayawardana, and Sampath Jayarathna"
         title: "Gaze-Net: Appearance-Based Gaze Estimation using Capsule Networks"
@@ -291,7 +291,7 @@
         publisher: "IEEE ICIIS"
         link: "https://ieeexplore.ieee.org/document/4216648" 
             
-- type: "<br />Peer-Reviewed Posters (Conference) and workshop Publications"
+- type: "Peer-Reviewed Posters (Conference) and workshop Publications"
   items:
       - authors: "Yasith Jayawardana, and Sampath Jayarathna"
         title: "Streaming Analytics and Workflow Automation for DFS"
@@ -342,7 +342,7 @@
         publisher: "ACM CIKM"
         link: "https://dl.acm.org/doi/10.1145/2505515.2507878" 
 
-- type: "<br />Technical Reports"
+- type: "Technical Reports"
   items:
       - authors: "Gavindya Jayawardena, Anne Michalek, and Sampath Jayarathna"
         title: "Eye Gaze Metrics and Analysis of AOI for Indexing Working Memory towards Predicting ADHD"
@@ -393,14 +393,15 @@
         publisher: ""
         link: "https://www.researchgate.net/publication/224355460_2D_Oculomotor_Plant_Mathematical_Model_for_eye_movement_simulation"
 
-- type: "<br />Posters, Demo & Technical Reports (non-peer-reviewed)"
+- type: "Posters, Demo & Technical Reports (non-peer-reviewed)"
   items:    
 
       - authors: "Sampath Jayarathna, and Frank Shipman"
         title: "Improving Web Search by Incorporating User Behavior in Everyday Applications"
-        info: "Industrial Affiliates Program (IAP), CSE, Texas A&M University, College Station, Texas [Poster]. 
-        <br />Student Research Week, Texas A&M University <strong>(Won Best Poster Award - 1st place)</strong>
-        <br />Industrial Affiliates Program (IAP) Computer Science, Texas A&M University <strong>(Won Best Poster Award - 2nd place)</strong>"
+        info: >-
+          Industrial Affiliates Program (IAP), CSE, Texas A&M University, College Station, Texas [Poster]. **(Won Best Poster Award - 2nd place)**
+          
+          Student Research Week, Texas A&M University **(Won Best Poster Award - 1st place)**
         date: "March 03, 2016"
         publisher: ""
         link: "" 
@@ -421,8 +422,9 @@
 
       - authors: "Sampath Jayarathna, Atish Patra, Frank Shipman"
         title: "You might also like...From Everyday Applications to Recommendations"
-        info: "Industrial Affiliates Program (IAP), CSE, Texas A&M University, College Station, Texas [Poster]. 
-        <br /><strong>(Won Best Poster Award - 3rd place)</strong>"
+        info: >-
+          Industrial Affiliates Program (IAP), CSE, Texas A&M University, College Station, Texas [Poster]. 
+          **(Won Best Poster Award - 3rd place)**
         date: "Sep. 09, 2014"
         publisher: ""
         link: "" 
@@ -483,7 +485,7 @@
         publisher: ""
         link: ""
 
-- type: "<br />Thesis & Dissertation"
+- type: "Thesis & Dissertation"
   items:
       - authors: "Sampath Jayarathna"
         title: "Unified Implicit and Explicit Feedback for Multi-Application User Interest Modeling"
