@@ -3,12 +3,21 @@ baseurl: ''
 title: 'NIRDS Lab'
 lang: 'en'
 future: true
-timezone: TIMEZONE
 
 header_pages:
+  - projects.md
   - team.md
-  - research.md
+  # - research.md
   - publications.md
   - grants.md
   - equipments.md
   - datasets.md
+
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  datasets:
+    output: true
+    permalink: /datasets/:name

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+
+{% for member in page.team %}
+  {% for user in site.data.members %}
+    {% if user.name == member %}
+      <a href="{{ site.baseurl }}{{ user.url }}">
+        {{user.name}}
+      </a>
+      <br>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
