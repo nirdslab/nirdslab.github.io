@@ -21,7 +21,7 @@
     - name: 'Bathsheba Farrow'
       img: '/assets/img/team/bathsheba.png'
       title: 'CS PhD Student'
-      interests: 'PTSD, EEG, Eye-Tracking'    
+      interests: 'PTSD, Physiological Sensors'    
 - category: 'Masters Students'
   members:
     - name: 'Nada Alghofaili'
@@ -44,6 +44,10 @@
       img: '/assets/img/team/sashi.jpg'
       title: 'CS Masters Student'
       interests: 'Autism and oculomotor plant'
+    - name: 'Matt Gray'
+      img: '/assets/img/team/mattgray.jpg'
+      title: 'ECE Masters Student'
+      interests: 'HCI, Physiological Sensors, Working Memory Capacity Detection'
 - category: 'Undergraduate Students'
   members:
     - name: 'Joanna Cao'
