@@ -10,18 +10,21 @@
       img: '/assets/img/team/yasith.jpg'
       title: 'CS PhD Student'
       interests: 'Metadata, Multi Sensory Data, ASD'
+      link: "https://www.cs.odu.edu/~yasith/" 
     - name: 'Gavindya Jayawardena'
       img: '/assets/img/team/gavindya.png'
       title: 'CS PhD Student'
       interests: 'Eye Tracking, ADHD'
+      link: "https://www.cs.odu.edu/~gavindya/" 
     - name: 'Bhanuka Mahanama'
       img: '/assets/img/team/bhanuka.png'
       title: 'CS PhD Student'
       interests: 'Assisted Learning, AR/VR'
+      link: "https://www.cs.odu.edu/~bhanuka/" 
     - name: 'Bathsheba Farrow'
       img: '/assets/img/team/bathsheba.png'
       title: 'CS PhD Student'
-      interests: 'PTSD, Physiological Sensors'    
+      interests: 'PTSD, Physiological Sensors' 
 - category: 'Masters Students'
   members:
     - name: 'Matt Gray'
