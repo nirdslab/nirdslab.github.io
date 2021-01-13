@@ -10,7 +10,7 @@
   img: '/assets/img/team/yasith.jpg'
   title: 'CS PhD Student'
   interests: 'Metadata, Multi Sensory Data, ASD'
-  url: /team
+  url: https://www.cs.odu.edu/~yasith/
   category: phd-student
 
 - gavindya-jayawardana :
@@ -18,6 +18,7 @@
   img: '/assets/img/team/gavindya.png'
   title: 'CS PhD Student'
   interests: 'Eye Tracking, ADHD'
+  url: https://www.cs.odu.edu/~gavindya/
   category: phd-student
 
 - bhanuka-mahanama :
@@ -25,7 +26,7 @@
   img: '/assets/img/team/bhanuka.png'
   title: 'CS PhD Student'
   interests: 'Assisted Learning, AR/VR'
-  url: cs.odu.edu/~bhanuka
+  url: https://www.cs.odu.edu/~bhanuka/
   category: phd-student
   
 - bathsheba-farrow :
@@ -33,7 +34,7 @@
   img: '/assets/img/team/bathsheba.png'
   title: 'CS PhD Student'
   interests: 'PTSD, EEG, Eye Tracking'
-  url: cs.odu.edu/~bnelson
+  url: https://www.cs.odu.edu/~bnelson
   category: phd-student
 
 # - name: 'Nada Alghofaili'
