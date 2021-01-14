@@ -3,7 +3,7 @@ layout: project
 title: MGaze
 permalink: /projects/mgaze
 image: /assets/img/projects/mgaze.png
-team: [Bhanuka Mahanama, Yasith Jayawardana]
+team: [Sampath Jayarathna, Bhanuka Mahanama, Yasith Jayawardana]
 ---
 
 MGaze provides multi user gaze tracking systems using a wide range of equipments ranging from mobile and desktop based web cameras to specialized cameras with multi sensing.
