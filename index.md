@@ -3,10 +3,10 @@ layout: default
 title: 'Welcome'
 ---
 
-<div class="container mb-3">
+<div class="container jumbotron py-3">
 <div class="row">
   <div class="col-3 col-md-2 offset-md-5 d-flex" style="align-items: center;">
-    <img style="width: 100%; padding: 0.5em;" src="{{ site.baseurl }}/assets/img/logo.png">
+    <img style="width: 100%;" class="p-0 p-md-3" src="{{ site.baseurl }}/assets/img/logo.png">
   </div>
   <div class="col-9 col-md-12 text-md-center py-auto">
     <h2>Neuro-Information Retrieval and Data Science (NIRDS) Lab</h2>
