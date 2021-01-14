@@ -33,7 +33,15 @@ title: 'Welcome'
 </div>
 
 <!-- End Carousel -->
+<br>
 
-<div class="d-flex justify-content-center">
-<a class="twitter-timeline" data-width="50%" data-tweet-limit="4" href="https://twitter.com/NirdsLab?ref_src=twsrc%5Etfw">Tweets by NirdsLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="row">
+  <div class="col-sm-7">
+    The Neuro-Information Retrieval and Data Science (NIRDS) Lab at Old Dominion University in Norfolk, is a research group
+    with focus on neuro-information retrieval, human computer interaction, data science, and machine learning.
+    Our research group conprise of 4 PhD students, 2 MS students, and one undergraduate student.
+  </div>
+  <div class="col-sm-5">
+    <a class="twitter-timeline" data-tweet-limit="2" noheader href="https://twitter.com/NirdsLab?ref_src=twsrc%5Etfw">Tweets by NirdsLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
 </div>
