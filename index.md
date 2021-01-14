@@ -10,15 +10,16 @@ title: 'Welcome'
     <li data-target="#main-carousel" data-slide-to="1"></li>
     <li data-target="#main-carousel" data-slide-to="2"></li>
   </ol>
+  <h2 style="margin-bottom: 1em;">Neuro-Information Retrieval and Data Science (NIRDS) Lab</h2>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="https://mgaze.nirds.cs.odu.edu/static/images/sample-class-vertical-gaze.jpg" alt="First slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/carousel/image-1.jpg" alt="Our Team">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="https://www.odu.edu/sci/departments/compsci/academics/_jcr_content/par/section/columns/column_0/featuredpage/pageimage.img.680.png" alt="Second slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/carousel/image-2.jpg" alt="Outreach">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="https://www.odu.edu/sci/departments/compsci/academics/_jcr_content/par/section/columns/column_0/featuredpage/pageimage.img.680.png" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/carousel/image-3.jpg" alt="Gaze Estimation">
     </div>
   </div>
   <a class="carousel-control-prev" href="#main-carousel" role="button" data-slide="prev">
