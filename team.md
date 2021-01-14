@@ -20,22 +20,23 @@ title: 'Team'
 </style>
 
 <div class="py-2">
-{% for team in site.data.team %}
-<a class="btn btn-info m-1" href="#{{ team.category }}" role="button">{{ team.category }}</a>
+{% assign categories = site.data.members | group_by: 'category' %}
+{% for category in categories %}
+<a class="btn btn-info m-1" href="#{{ category.name }}" role="button">{{ category.name }}</a>
 {% endfor %}
 </div>
 
-{% for team in site.data.team %}
+{% for category in categories %}
 
 <div class="col-lg-12" id="categories">
-
-<h2 id="{{team.category}}" class="pt-3 pb-2 mx-2 category-header">{{ team.category }}
+<h2 id="{{category.name}}" class="pt-3 pb-2 mx-2 category-header">{{ category.name }}
 <a href="#" class="up-icon"><i class="fas fa-chevron-circle-up"></i></a></h2>
-
 </div>
+
 <div class="row p-2">
-    {% for member in team.members %}
+    {% for member in category.items %}
     {%- include person.html member=member -%}
     {% endfor %}
 </div>
+
 {% endfor %}
