@@ -3,6 +3,17 @@ layout: default
 title: 'Welcome'
 ---
 
+<div class="container mb-3">
+<div class="row">
+  <div class="col-3 col-md-2 offset-md-5 d-flex" style="align-items: center;">
+    <img style="width: 100%; padding: 0.5em;" src="{{ site.baseurl }}/assets/img/logo.png">
+  </div>
+  <div class="col-9 col-md-12 text-md-center py-auto">
+    <h2>Neuro-Information Retrieval and Data Science (NIRDS) Lab</h2>
+  </div>
+</div>
+</div>
+
 <!-- Carousel -->
 <div id="main-carousel" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -10,7 +21,6 @@ title: 'Welcome'
     <li data-target="#main-carousel" data-slide-to="1"></li>
     <li data-target="#main-carousel" data-slide-to="2"></li>
   </ol>
-  <h2 style="margin-bottom: 1em;">Neuro-Information Retrieval and Data Science (NIRDS) Lab</h2>
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/carousel/image-1.jpg" alt="Our Team">
