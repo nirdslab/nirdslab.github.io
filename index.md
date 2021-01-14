@@ -33,3 +33,7 @@ title: 'Welcome'
 </div>
 
 <!-- End Carousel -->
+
+<div class="d-flex justify-content-center">
+<a class="twitter-timeline" data-width="50%" data-tweet-limit="4" href="https://twitter.com/NirdsLab?ref_src=twsrc%5Etfw">Tweets by NirdsLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
