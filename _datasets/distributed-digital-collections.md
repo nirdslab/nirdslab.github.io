@@ -3,7 +3,6 @@ layout: dataset
 title: Distributed Digital Collections
 permalink: /dataset/distributed-digital-collections
 ---
-## Distributed Digital Collections Dataset - ACM Digital Library Conference Web Pages
 
 The ACM maintains a list of the conference proceedings (http://dl.acm.org/proceedings.cfm), which we retrieved on 9/27/2014 and used as our starting point. Then we followed each hyperlink to a metadata page that displayed basic information for each corresponding conference and workshop, which in turn allowed us to extract the external URLs. As a result of this procedure, we were able to extract 6086 URLs – out of which 2001 were unique.  Approximately 75% of the page requests resulted in a response code indicating success (200), which means that no problems were found when trying to fulfill the request. The remaining pages were mostly divided among page not found (404) responses and timeouts. We then proceeded to inspect and categorize the 1489 pages that were retrieved with a 200 HTTP response code. We categorized these pages into three categories by evaluating the relationship between the anchor text and the corresponding retrieved page. As a result of this categorization, we found that 917 pages were “clearly correct” and 528 were incorrect. Additionally, we were unable to evaluate 44 pages because their contents didn’t provide us enough information to make an accurate assessment. These pages could have been placed into the “incorrect” category, but we decided to use an additional category to make our experiment as transparent as possible.
 

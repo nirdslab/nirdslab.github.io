@@ -7,13 +7,15 @@ layout: default
 {{ content }}
 
 
+<div class="row p-2">
 {% for member in page.team %}
   {% for user in site.data.members %}
     {% if user.name == member %}
-      <a href="{{ site.baseurl }}{{ user.url }}">
+      <!-- <a href="{{ site.baseurl }}{{ user.url }}">
         {{user.name}}
-      </a>
-      <br>
+      </a> -->
+      {%- include person.html member=user -%}
     {% endif %}
   {% endfor %}
 {% endfor %}
+</div>
