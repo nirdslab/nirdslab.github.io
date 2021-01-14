@@ -1,12 +1,14 @@
 <div class="col-lg-4 col-sm-6 text-center">
-	<img
+	<a href="{{include.member.url}}" target="_blank">
+		<img
 		src="{{include.member.img | default: '/assets/img/team/placeholder.png'}}"
 		style="border-radius: 90%;"
 		alt=""
-	/>
+		/>
+	</a>
 
 	<div class="card-body">
-		<h5><a href="{{include.member.url}}">{{include.member.name}}</a></h5>
+		<h5><a href="{{include.member.url}}" target="_blank">{{include.member.name}}</a></h5>
 		<h6>{{include.member.title}}</h6>
 		<p class="text-muted"><em>{{include.member.interests}}</em></p>
 
