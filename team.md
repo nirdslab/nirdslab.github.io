@@ -28,9 +28,9 @@ title: 'Team'
 
 {% for category in categories %}
 
-<div class="col-lg-12" id="categories">
-<h2 id="{{category.name}}" class="pt-3 pb-2 mx-2 category-header">{{ category.name }}
-<a href="#" class="up-icon"><i class="fas fa-chevron-circle-up"></i></a></h2>
+<div id="categories">
+<h3 id="{{category.name}}" class="pt-3 pb-2 category-header">{{ category.name }}
+<a href="#" class="up-icon"><i class="fas fa-chevron-circle-up"></i></a></h3>
 </div>
 
 <div class="row p-2">
