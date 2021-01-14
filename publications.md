@@ -11,21 +11,26 @@ title: "Publications"
             {{pub.authors}},
         {% endif %}
         {% if pub.title != "" %}
-            <strong>{{pub.title}}</strong>,
+            <strong>
+            {% if pub.link %}
+            <a style="color: darkgreen;" href="{{pub.link}}" target="_blank">{{pub.title}}</a>
+            {% else %}
+            <a style="color: darkgreen;" target="_blank">{{pub.title}}</a>
+            {% endif %}
+            </strong>,
         {% endif %}   
-        {% if pub.info != "" %}
-            <i>{{pub.info | markdownify}}</i>,
+        {% if pub.in != "" %}
+            In <i style="color: darkblue;">{{ pub.in }}</i>,
         {% endif %}
         {% if pub.date != "" %} 
-            <i>{{pub.date}}</i>
+            {{pub.date}},
         {% endif %}    
         {% if pub.publisher != "" %}
-            ({{pub.publisher}})
+            {{pub.publisher}}.
         {% endif %}
-        {% if pub.link != "" %}
-            {% assign link = pub.link %}
-            <a href="{{pub.link}}" target="_blank">[Link]</a>
-        {% endif %}    
+        {% if pub.extra != "" %}
+            <span style="color: brown;">{{pub.extra}}</span>
+        {% endif %}
     </li>
     {% endfor %}
 </ul>
