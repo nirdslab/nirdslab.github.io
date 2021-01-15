@@ -3,7 +3,7 @@ layout: project
 title: Streaming Hub
 permalink: /projects/streaming-hub
 image: /assets/img/projects/streaminghub.png
-team: [Sampath Jayarathna, Yasith Jayawardana]
+team: [Yasith Jayawardana]
 ---
 
 **Streaming Hub** is A stream-oriented framework to create scientific workflows through visual programming and flow-based programming.

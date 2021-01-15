@@ -3,7 +3,7 @@ layout: project
 title: Autism Spectrum Disorder (ASD)
 permalink: /projects/autism-spectrum-disorder
 image: /assets/img/projects/autism.jpg
-team: [Sampath Jayarathna, Yasith Jayawardana]
+team: [Yasith Jayawardana]
 ---
 
 
