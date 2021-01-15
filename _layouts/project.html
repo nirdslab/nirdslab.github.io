@@ -11,9 +11,6 @@ layout: default
 {% for member in page.team %}
   {% for user in site.data.members %}
     {% if user.name == member %}
-      <!-- <a href="{{ site.baseurl }}{{ user.url }}">
-        {{user.name}}
-      </a> -->
       {%- include person.html member=user -%}
     {% endif %}
   {% endfor %}
