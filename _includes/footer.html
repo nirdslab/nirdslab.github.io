@@ -1,28 +1,23 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
 <style>
-.fab {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  align-items: center;
-  border-radius: 50%;
-}
-
-.fab:hover {
-    opacity: 0.7;
-}
-
+  footer {
+    border-top: 1px solid #e8e8e8;
+    padding: 30px 0;
+    color: #828282;
+  }
 </style>
-</head>
-<body>
-<div class = container>
-{% include social-media.html %}
+<footer class="container">
+  <div class="row">
+    <div class="col">
+      <address>
+        Department of Computer Science <br>
+        Old Dominion University <br>
+        Norfolk, VA 23529
+      </address>
+    </div>
+    <div class="col text-center">
+      Find us on<br>
+      {% include social-media.html %}
+    </div>
+    <div class="col"></div>
+  </div>
 </div>
-</body>
-</html>
