@@ -3,7 +3,7 @@ layout: default
 title: 'Welcome'
 ---
 
-<div class="container jumbotron py-3">
+<div class="container jumbotron py-3 mb-3">
 <div class="row">
   <div class="col-3 col-md-2 offset-md-5 d-flex" style="align-items: center;">
     <img style="width: 100%;" class="p-0 p-md-3" src="{{ site.baseurl }}/assets/img/logo.png" alt="logo">
@@ -15,7 +15,7 @@ title: 'Welcome'
 </div>
 
 <!-- Carousel -->
-<div id="main-carousel" class="carousel slide" data-ride="carousel">
+<div id="main-carousel" class="carousel slide mb-3" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
     <li data-target="#main-carousel" data-slide-to="1"></li>
@@ -41,9 +41,8 @@ title: 'Welcome'
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+<hr/>
 <!-- End Carousel -->
-<br>
 
 <div class="row">
   <div class="col-sm-7">
