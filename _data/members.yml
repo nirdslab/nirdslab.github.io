@@ -40,6 +40,20 @@
   url:
   category: "Masters Students"
 
+ - name: "James Owens"
+  img: "/assets/img/team/james.jpg"
+  title: "CS UG Student"
+  interests: ""
+  url:
+  category: "Undergraduate Students"
+  
+ - name: "Kayla Pineda"
+  img: "/assets/img/team/kayla.jpg"
+  title: "CS UG Student"
+  interests: ""
+  url:
+  category: "Undergraduate Students"
+  
 - name: "Nada Alghofaili"
   img: "/assets/img/team/nada.jpg"
   title: "CS MS, Cal Poly Pomona"
