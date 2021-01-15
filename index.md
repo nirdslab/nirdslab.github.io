@@ -48,8 +48,8 @@ title: 'Welcome'
 <div class="row">
   <div class="col-sm-7">
     The Neuro-Information Retrieval and Data Science (NIRDS) Lab at Old Dominion University in Norfolk, is a research group
-    with focus on neuro-information retrieval, human computer interaction, data science, and machine learning.
-    Our research group conprise of 4 PhD students, 2 MS students, and one undergraduate student.
+    with focus on neuro-information retrieval, human computer interaction, data science, and machine learning. Nero-information retrieval is a novel area of IR research that apply cognitive psychology and neuro-physiological methods (eye tracking, EEG, EOG, and wearables) to understand information searchers and improve search experience. Neuro-IR is useful in investigating the search as a learning process and to employ these sensory data as assessment of reading, mind-wandering and in inferring learning disabilities.
+    Our research group comprise of 4 PhD students, 1 MS student, and 2 undergraduate students.
   </div>
   <div class="col-sm-5">
     <a class="twitter-timeline" data-tweet-limit="2" noheader href="https://twitter.com/NirdsLab?ref_src=twsrc%5Etfw">Tweets by NirdsLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

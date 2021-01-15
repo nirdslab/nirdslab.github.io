@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Equipments"
+title: "Equipment"
 ---
 
 <style></style>
@@ -11,6 +11,11 @@ title: "Equipments"
 
 Eye cameras custom built by Pupil Labs with binocular frame for binocular eye detection at high speed. Custom made cameras that resolve a wider range of eye movement motifs. Intel RealSense R200 RGBD world camera, provides depth image and monocular RGB color image.
 
+## CGX Quick-30 Electroencephalography (EEG) headset
+
+![img5](/assets/img/cgx-eeg.jpg){:width="150rem"}
+
+CGX Quick-30 is a wireless, battery operated, dry sensor EEG headset covering the full 10-20 montage with 30 channels. The headset provides research grade signal quality and is ideally suited for general-purpose EEG and ERP research in laboratory and field environments.
 
 ## Empatica E4 Wristband
 
@@ -29,12 +34,6 @@ Muse is a powerful, compact electroencephalography (EEG) system. By leveraging i
 ![img4](/assets/img/emotiv.jpg){:width="150rem"}
 
 Emotiv Insight is a 5-channel mobile EEG headset that records brainwaves and translates them into meaningful data. Designed for extended use in field research, BCI and advanced self assessment use-cases, Insight boasts advanced electronics that are fully optimized to produce clean, robust signals anytime, anywhere.
-
-## CGX Quick-30 Electroencephalography (EEG) headset
-
-![img5](/assets/img/cgx-eeg.jpg){:width="150rem"}
-
-CGX Quick-30 is a wireless, battery operated, dry sensor EEG headset covering the full 10-20 montage with 30 channels. The headset provides research grade signal quality and is ideally suited for general-purpose EEG and ERP research in laboratory and field environments.
 
 ## Tobii EyeX eye tracker
 

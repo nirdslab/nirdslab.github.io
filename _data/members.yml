@@ -35,83 +35,90 @@
 
 - name: "Matt Gray"
   img: "/assets/img/team/mattgray.jpg"
-  title: "ECE Masters Student"
-  interests: "HCI, Physiological Sensors, Working Memory Capacity Detection"
+  title: "ECE MS Student"
+  interests: "First Employement: NASA Langley"
   url:
   category: "Masters Students"
 
+- name: "James Owens"
+  img: "/assets/img/team/James.jpg"
+  title: "CS UG Student"
+  interests: ""
+  url:
+  category: "Undergraduate Students"
+
+- name: "Kayla Pineda"
+  img: "/assets/img/team/Kayla.jpg"
+  title: "CS UG Student"
+  interests: ""
+  url:
+  category: "Undergraduate Students"
+  
 - name: "Nada Alghofaili"
   img: "/assets/img/team/nada.jpg"
-  title: "CS Masters Student"
-  interests: "Human Trafficking, Personas"
+  title: "CS MS, Cal Poly Pomona"
+  interests: "First Employement: AlahliNCB"
   url:
   category: "Alumni"
 
 - name: "Diana Lin"
   img: "/assets/img/team/diana.jpg"
-  title: "CS Masters Student"
-  interests: "EEG, recommender systems"
+  title: "CS MS, Cal Poly Pomona"
+  interests: "First Employement: NASA JPL"
   url:
   category: "Alumni"
 
 - name: "Sobiga Shanmugathasan"
   img: "/assets/img/team/sobiga.jpg"
-  title: "CS Masters Student"
-  interests: "Oculomotor plant, classifications"
+  title: "CS MS, Cal Poly Pomona"
+  interests: "First Employement: Cal Poly Pomona"
   url:
   category: "Alumni"
 
 - name: "Shubhangi Shimpi"
   img: "/assets/img/team/shubhangi.jpg"
-  title: "CS Masters Student"
-  interests: "Epileptic seizure prediction"
+  title: "CS MS, Cal Poly Pomona"
+  interests: "First Employement: SubSource"
   url:
   category: "Alumni"
 
 - name: "Sashi Thapaliya"
   img: "/assets/img/team/sashi.jpg"
-  title: "CS Masters Student"
-  interests: "Autism and oculomotor plant"
+  title: "CS MS, Cal Poly Pomona"
+  interests: "First Employement: Chronaly"
   url:
   category: "Alumni"
 
 - name: "Joanna Cao"
   img: "/assets/img/team/joanna.jpg"
-  title: "Freshman Student"
-  interests: "Trafficking and Autism"
-  url:
-  category: "Alumni"
-
-- name: "Bryan Cepeda"
-  img: ""
-  title: "Freshman Student"
-  interests: "Mobile Camera Privacy"
+  title: "CS UG, Cal Poly Pomona"
+  interests: "First Employement:"
   url:
   category: "Alumni"
 
 - name: "Lei Pei"
   img: "/assets/img/team/lei.jpg"
-  title: "Freshman Student"
-  interests: "Data Science"
+  title: "CS UG, Cal Poly Pomona"
+  interests: "First Employement:"
   url:
   category: "Alumni"
 
 - name: "Micheal Huluf"
   img: "/assets/img/team/micheal.jpg"
-  title: "CS Senior Project Student"
-  interests: "Eye movement classifications"
+  title: "CS UG, Cal Poly Pomona"
+  interests: "First Employement: City of LA"
   url:
   category: "Alumni"
 
 - name: "Cesar Pedroza"
   img: "/assets/img/team/cesar.jpg"
-  title: "CS Senior Project Student"
-  interests: "EEG, Mobile Applications"
+  title: "CS UG, Cal Poly Pomona"
+  interests: "First Employement: Amex"
   url:
   category: "Alumni"
 
 - name: "Isuru Gunawardena"
-  title: "Highschool student"
+  title: "Ocean Lakes Highschool"
   url:
   category: "Visiting Students"
 
