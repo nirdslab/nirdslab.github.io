@@ -5,11 +5,17 @@ title: "Equipment"
 
 <style></style>
 
-## Pupil Labs 3D binocoular eye tracker
+## PupilLabs 3D binocoular eye tracker
 
 ![img1](/assets/img/pupillabs.jpg){:width="150rem"}
 
 Eye cameras custom built by Pupil Labs with binocular frame for binocular eye detection at high speed. Custom made cameras that resolve a wider range of eye movement motifs. Intel RealSense R200 RGBD world camera, provides depth image and monocular RGB color image.
+
+## PupilLabs Pupil Invisible eye tracker
+
+![img9](/assets/img/invisible.jpg){:width="150rem"}
+
+Pupil Invisible is an eye-tracking glass built by Pupil Labs that performs binocular gaze detection at 200 Hz. It pairs with mobile devices through the Invisible Companion app (Android), and uses a deep learning-powered gaze estimation pipeline for calibration-free eye tracking. It supports real-time gaze observation, recording, and secure cloud upload.
 
 ## CGX Quick-30 Electroencephalography (EEG) headset
 
