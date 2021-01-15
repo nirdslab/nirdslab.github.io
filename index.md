@@ -9,7 +9,7 @@ title: 'Welcome'
     <img style="width: 100%;" class="p-0 p-md-3" src="{{ site.baseurl }}/assets/img/logo.png" alt="logo">
   </div>
   <div class="col-9 col-md-12 text-md-center py-auto">
-    <h2>Neuro-Information Retrieval and Data Science (NIRDS) Lab</h2>
+    <h2 style="font-weight: 300;">Neuro-Information Retrieval and Data Science (NIRDS) Lab</h2>
   </div>
 </div>
 </div>
