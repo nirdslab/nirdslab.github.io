@@ -19,17 +19,13 @@ title: 'Welcome'
   <ol class="carousel-indicators">
     <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
     <li data-target="#main-carousel" data-slide-to="1"></li>
-    <li data-target="#main-carousel" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/carousel/image-1.jpg" alt="Our Team">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/carousel/image-2.jpg" alt="Our Team">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/carousel/image-2.jpg" alt="Outreach">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/carousel/image-3.jpg" alt="Gaze Estimation">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/carousel/image-3.jpg" alt="Outreach">
     </div>
   </div>
   <a class="carousel-control-prev" href="#main-carousel" role="button" data-slide="prev">
