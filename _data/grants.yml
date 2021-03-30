@@ -1,6 +1,11 @@
 - type: "External Research Funding"
   grants:
     - year: "2021"
+      topic: "CAREER: Eye Tracking Streaming Analytics"
+      amount: "$550,000"
+      from: "National Science Foundation"
+      to: "Sampath Jayarathna"
+    - year: "2021"
       topic: "STARS: Secondary Teachers as Researchers with Satellites"
       amount: "$9,455"
       from: "Virginia Space Grant Consortium Innovative Grants Program"
