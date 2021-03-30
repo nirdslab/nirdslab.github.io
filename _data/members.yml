@@ -118,20 +118,22 @@
   category: "Alumni"
 
 - name: "Isuru Gunawardena"
+  img: "/assets/img/team/isuru.jpg"
   title: "Ocean Lakes Highschool"
+  interests: "2020"
   url:
   category: "Visiting Students"
 
 - name: "Waleed Karim"
   img: "/assets/img/team/waleed.jpg"
   title: "Summer REU, Citrus College"
-  interests: "Wearable, mobile development"
+  interests: "2017"
   url:
   category: "Visiting Students"
 
 - name: "Ricky Kim"
   img: "/assets/img/team/ricky.jpg"
   title: "Summer REU, Cypress College"
-  interests: "Wearable, mobile development"
+  interests: "2017"
   url:
   category: "Visiting Students"
