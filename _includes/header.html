@@ -5,6 +5,31 @@
         -moz-backdrop-filter: blur(4px);
         -webkit-backdrop-filter: blur(4px);
     }
+    video {
+  position: absolute;
+  display:flex;
+  /* width:fit-content; */
+}
+
+.overlay {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  text-shadow: 0 1px 9px rgb(0 0 0 / 30%);
+  /* -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center; */
+}
+.overlay h3 {
+    background-color: rgba(255, 255, 255, 0.85);
+    color: rgb(255, 0, 0);
+    font-weight: 800;
+    font-size: 34px;
+    margin: 2% 3% 0;
+    mix-blend-mode: overlay;
+    padding: 5px 15px;
+    text-align: center;
+}
 </style>
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
     <div class="container">

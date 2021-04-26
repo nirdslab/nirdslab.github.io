@@ -3,15 +3,21 @@ layout: default
 title: 'Welcome'
 ---
 
-<div class="container jumbotron py-3 mb-3">
-<div class="row">
-  <div class="col-3 col-md-2 offset-md-5 d-flex" style="align-items: center;">
-    <img style="width: 100%;" class="p-0 p-md-3" src="{{ site.baseurl }}/assets/img/logo.png" alt="logo">
+<div class="container ">
+  <div class="row">
+    <video autoplay muted loop>
+      <source src="{{ site.baseurl }}/assets/img/movie.mp4" type="video/mp4">
+      <source src="{{ site.baseurl }}/assets/img/movie.ogg" type="video/ogg">
+    </video>
+   <div class="overlay">
+      <h3 style="background-color: rgba(255, 255, 255, 0.85);" >
+        Neuro-Information Retrieval and Data Science Lab.
+        <br>
+        <p style="color: rgb(37, 35, 35); font-size: 18px;">We work on eye tracking stream analytics for data reuse, streamlined data analysis workflow, and real time processing of eye movement data.</p>
+      </h3>
+                  
+    </div>
   </div>
-  <div class="col-9 col-md-12 text-md-center py-auto">
-    <h2 style="font-weight: 300;">Neuro-Information Retrieval and Data Science (NIRDS) Lab</h2>
-  </div>
-</div>
 </div>
 
 <!-- Carousel -->
