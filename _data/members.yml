@@ -40,6 +40,13 @@
   url:
   category: "Masters Students"
 
+- name: "Ibrokhim Iskandarov"
+  img: "/assets/img/team/ibrokhim.jpg"
+  title: "CS MS Student"
+  interests: "Multimodal Sensing"
+  url:
+  category: "Masters Students"
+  
 - name: "James Owens"
   img: "/assets/img/team/James.jpg"
   title: "CS UG Student"
@@ -126,14 +133,14 @@
 
 - name: "Waleed Karim"
   img: "/assets/img/team/waleed.jpg"
-  title: "Summer REU, Citrus College"
+  title: "Summer REU Citrus College"
   interests: "2017"
   url:
   category: "Visiting Students"
 
 - name: "Ricky Kim"
   img: "/assets/img/team/ricky.jpg"
-  title: "Summer REU, Cypress College"
+  title: "Summer REU Cypress College"
   interests: "2017"
   url:
   category: "Visiting Students"
