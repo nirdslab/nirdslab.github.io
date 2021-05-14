@@ -7,7 +7,7 @@ title: "Publications"
 <div class="card my-3">
   <div class="card-header"><h5 class="py-1 my-0">{{ pubs.type }}</h5></div>
   <div class="card-body">
-    <ul style="text-align: justify; font-size: 0.9em; margin-bottom: 0;">
+    <ol style="text-align: justify; font-size: 0.9em; margin-bottom: 0;">
       {%- for pub in pubs.items -%}
       <li>
         {%- if pub.authors != "" -%}
@@ -36,7 +36,7 @@ title: "Publications"
         {%- endif -%}
       </li>
       {%- endfor -%}
-    </ul>
+    </ol>
   </div>
 </div>
 {%- endfor -%}
