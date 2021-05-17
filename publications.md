@@ -7,7 +7,15 @@ title: "Publications"
 <div class="card my-3">
   <div class="card-header"><h5 class="py-1 my-0">{{ pubs.type }}</h5></div>
   <div class="card-body">
-    <ul style="text-align: justify; font-size: 0.9em; margin-bottom: 0;">
+    {%- if pubs.type == "Journal Publications" -%}
+    <ol start="3" style="text-align: justify; font-size: 0.9em; margin-bottom: 0;">
+    {%- elsif pubs.type == "Peer-Reviewed Conference Publications" -%}
+    <ol start="12" style="text-align: justify; font-size: 0.9em; margin-bottom: 0;">
+    {%- elsif pubs.type == "Peer-Reviewed Posters (Conference) and Workshop Publications" -%}
+    <ol start="45" style="text-align: justify; font-size: 0.9em; margin-bottom: 0;">
+    {%- else -%}
+    <ol style="text-align: justify; font-size: 0.9em; margin-bottom: 0;">
+    {%- endif -%}
       {%- for pub in pubs.items -%}
       <li>
         {%- if pub.authors != "" -%}
@@ -36,7 +44,7 @@ title: "Publications"
         {%- endif -%}
       </li>
       {%- endfor -%}
-    </ul>
+    </ol>
   </div>
 </div>
 {%- endfor -%}
