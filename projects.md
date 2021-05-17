@@ -4,9 +4,10 @@ title: "Projects"
 permalink: /projects/
 ---
 
-<div class="card-columns">
+<div class="row row-cols-1 row-cols-md-3 g-4">
   {% for project in site.projects %}
-    <div class="card">
+    <div class="col">
+    <div class="card h-100">
       <a href="{{ project.url }}">
         <img class="card-img-top p-3" src="{{ site.baseurl }}{{ project.image }}" alt="{{ project.title }}">
       </a>
@@ -17,6 +18,7 @@ permalink: /projects/
           <a href="{{ project.url }}">Read more..</a>
         </p>
       </div>
+    </div>
     </div>
   {% endfor %}
 </div>

@@ -22,7 +22,7 @@ title: 'Team'
 <div class="py-2">
 {% assign categories = site.data.members | group_by: 'category' %}
 {% for category in categories %}
-<a class="btn btn-info m-1" href="#{{ category.name }}" role="button">{{ category.name }}</a>
+<a class="btn btn-outline-primary m-1" href="#{{ category.name }}" role="button">{{ category.name }}</a>
 {% endfor %}
 </div>
 
@@ -30,7 +30,7 @@ title: 'Team'
 
 <div id="categories">
 <h3 id="{{category.name}}" class="pt-3 pb-2 category-header">{{ category.name }}
-<a href="#" class="up-icon"><i class="fas fa-chevron-circle-up"></i></a></h3>
+<a href="#" class="up-icon"><i class="bi bi-chevron-up"></i></a></h3>
 </div>
 
 <div class="row p-2">

@@ -33,9 +33,12 @@
 </style>
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
     <div class="container">
-        <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">
+            <img style="width: 2rem;" class="p-0" src="{{ site.baseurl }}/assets/img/logo.png" alt="logo">
+            {{ site.title | escape }}
+        </a>
        
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>

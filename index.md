@@ -3,56 +3,41 @@ layout: default
 title: 'Welcome'
 ---
 
-<div class="container ">
-  <div class="row">
-    <video autoplay muted loop>
-      <source src="{{ site.baseurl }}/assets/img/movie.mp4" type="video/mp4">
-      <source src="{{ site.baseurl }}/assets/img/movie.ogg" type="video/ogg">
-    </video>
-   <div class="overlay">
-      <h3 style="background-color: rgba(255, 255, 255, 0.85);" >
-        Neuro-Information Retrieval and Data Science Lab.
-        <br>
-        <p style="color: rgb(37, 35, 35); font-size: 18px;">We work on eye tracking stream analytics for data reuse, streamlined data analysis workflow, and real time processing of eye movement data.</p>
-      </h3>
-                  
-    </div>
-  </div>
-</div>
-
 <!-- Carousel -->
-<div id="main-carousel" class="carousel slide mb-3" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
-    <li data-target="#main-carousel" data-slide-to="1"></li>
-  </ol>
+<div id="main-carousel" class="carousel slide carousel-fade mb-3" data-bs-ride="carousel">
   <div class="carousel-inner">
-    <div class="carousel-item active">
+    <div class="carousel-item active" data-bs-interval="10000">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/movie.gif" alt="Main">
+    </div>
+    <div class="carousel-item" data-bs-interval="5000">
       <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/carousel/image-2.jpg" alt="Our Team">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item" data-bs-interval="5000">
       <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/carousel/image-3.jpg" alt="Outreach">
     </div>
   </div>
-  <a class="carousel-control-prev" href="#main-carousel" role="button" data-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#main-carousel" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#main-carousel" role="button" data-slide="next">
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#main-carousel" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+    <span class="visually-hidden">Next</span>
+  </button>
 </div>
-<hr/>
+<hr />
 <!-- End Carousel -->
 
 <div class="row">
   <div class="col-sm-7 blockquote">
     The Neuro-Information Retrieval and Data Science (NIRDS) Lab at Old Dominion University in Norfolk, is a research group
-    with focus on neuro-information retrieval, human computer interaction, data science, and machine learning. Nero-information retrieval is a novel area of IR research that apply cognitive psychology and neuro-physiological methods (eye tracking, EEG, EOG, and wearables) to understand information searchers and improve search experience. Neuro-IR is useful in investigating the search as a learning process and to employ these sensory data as assessment of reading, mind-wandering and in inferring learning disabilities.
+    with focus on neuro-information retrieval, human computer interaction, data science, and machine learning. Nero-information retrieval is a novel area of IR research that apply cognitive psychology
+    and neuro-physiological methods (eye tracking, EEG, EOG, and wearables) to understand information searchers and improve search experience. Neuro-IR is useful in investigating the search as a
+    learning process and to employ these sensory data as assessment of reading, mind-wandering and in inferring learning disabilities.
     Our research group comprise of 4 PhD students, 1 MS student, and 2 undergraduate students.
   </div>
   <div class="col-sm-5">
-    <a class="twitter-timeline" data-tweet-limit="2" noheader href="https://twitter.com/NirdsLab?ref_src=twsrc%5Etfw">Tweets by NirdsLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" data-tweet-limit="2" noheader href="https://twitter.com/NirdsLab?ref_src=twsrc%5Etfw">Tweets by NirdsLab</a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div>
