@@ -4,7 +4,6 @@ title: Distributed Digital Collections
 permalink: /dataset/distributed-digital-collections
 ---
 
-## Description
 The ACM maintains a list of the conference proceedings (http://dl.acm.org/proceedings.cfm), which we retrieved on 9/27/2014 and used as our starting point.
 Then we followed each hyperlink to a metadata page that displayed basic information for each corresponding conference and workshop, which in turn allowed us to extract the external URLs.
 As a result of this procedure, we were able to extract 6086 URLs – out of which 2001 were unique.
@@ -15,8 +14,8 @@ We categorized these pages into three categories by evaluating the relationship 
 As a result of this categorization, we found that 917 pages were “clearly correct” and 528 were incorrect.
 Additionally, we were unable to evaluate 44 pages because their contents didn’t provide us enough information to make an accurate assessment.
 These pages could have been placed into the “incorrect” category, but we decided to use an additional category to make our experiment as transparent as possible.
-
 ### Index of Dataset
+
 | Category | Description                            | Count |
 |----------|----------------------------------------|-------|
 | c        | correct                                | 917   |
@@ -32,6 +31,7 @@ These pages could have been placed into the “incorrect” category, but we dec
 | u        | university pages                       | 36    |
 
 ## Copyright Notice
+
 ```
 Copyright © 2017 Sampath Jayarathna
 All rights reserved
