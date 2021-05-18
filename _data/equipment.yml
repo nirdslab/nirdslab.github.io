@@ -1,0 +1,66 @@
+- type: Eye Tracking
+  items:
+    - name: Pupil Core
+      type: Wearable Eye Tracker
+      manufacturer: Pupil Labs GmbH
+      src: /assets/img/pupillabs.jpg
+      description: Pupil Core is an eye-tracker custom built by Pupil Labs for binocular eye detection at high speed. It has custom-made cameras that capture a wider range of eye movement motifs, and an Intel RealSense R200 RGBD world camera that provides a depth image and monocular RGB color image.
+
+    - name: Pupil Invisible
+      type: Wearable Eye Tracker
+      manufacturer: Pupil Labs GmbH
+      src: /assets/img/invisible.jpg
+      description: Pupil Invisible is an eye-tracking glass built by Pupil Labs that performs binocular gaze detection at 200 Hz. It pairs with mobile devices through the Invisible Companion app (Android), and uses a deep learning-powered gaze estimation pipeline for calibration-free eye tracking. It supports real-time gaze observation, recording, and secure cloud upload.
+
+    - name: Tobii 4C
+      manufacturer: Tobii AB
+      type: Desktop Eye Tracker
+      src: /assets/img/tobii-4c.png
+      description: Tobii Eye Tracker 4C is a gaming-oriented eye-tracker that attaches to the bottom of your screen and connects to your computer via USB. It tracks your head and eye movements to understand where you are looking at on the screen.
+
+    - name: Tobii EyeX
+      manufacturer: Tobii AB
+      type: Desktop Eye Tracker
+      src: /assets/img/tobii-eyex.jpg
+      description: Tobii EyeX is a specialized eye-tracker designed to allow certain aspects of the computing experience to be controlled by your eyes. It uses infrared LEDs and cameras to see your face and track where you are looking at on the screen. That information is used by the EyeX software to control cursor movement on the desktop or camera orientation in games, for example.
+
+- type: Electroencephalography (EEG)
+  items:
+    - name: CGX Quick-30
+      manufacturer: Brain Vision, LLC
+      type: EEG Headset
+      src: /assets/img/cgx-eeg.jpg
+      description: CGX Quick-30 is a wireless, battery operated, dry sensor EEG headset covering the full 10-20 montage with 30 channels. The headset provides research grade signal quality and is ideally suited for general-purpose EEG and ERP research in laboratory and field environments.
+
+    - name: Muse 1
+      manufacturer: InteraXon Inc.
+      type: EEG Headband
+      src: /assets/img/muse.jpg
+      description: Muse is a powerful, compact electroencephalography (EEG) system. By leveraging improvements in dry sensor technology, bluetooth and battery life, as well as significant advances in digital signal processing, Muse makes it easy to access and use brainwave data, inside and outside the laboratory and in real world environments.
+
+    - name: EMOTIV Insight
+      manufacturer: Emotiv Inc.
+      type: EEG Headband
+      src: /assets/img/emotiv.jpg
+      description: Emotiv Insight is a 5-channel mobile EEG headset that records brainwaves and translates them into meaningful data. Designed for extended use in field research, BCI and advanced self assessment use-cases, Insight boasts advanced electronics that are fully optimized to produce clean, robust signals anytime, anywhere.
+
+- type: Health Sensors
+  items:
+    - name: E4 Wristband
+      manufacturer: Empatica Inc.
+      type: Wearable Sensor
+      src: /assets/img/e4.jpg
+      description: The Empatica E4 wristband is a wearable wireless device designed for continuous, realtime data acquisition in daily life. The E4 contains a photoplethysmography (PPG) sensor for measuring blood volume pulse (BVP), from which the heart rate and heart rate variability (HRV) can be calculated, a 3-axis accelerometer, an electrodermal sctivity (EDA) sensor to measure sympathetic nervous system arousal and to derive features related to stress, engagement and excitement, as well as an infrared thermopile to measure peripheral skin temperature.
+
+    - name: GSR Logger Sensor NUL-217
+      manufacturer: NeuLog Sensors
+      type: Galvanic Skin Response (GSR) Sensor
+      src: /assets/img/gsr.jpg
+      description: NeuLog galvanic skin response (GSR) logger sensor measures changes in the skin’s conductivity, especially fingers, due to stimulus, such as sudden noise, smell, touch, and pain. The logger sensor can be used to study physiological and psychological relationships and responses to stimuli, lie detection, and for human biology demonstrations for further research. The logger sensor has an attached GSR probes (power and ground) to detect conductivity changes, and two nylon finger connectors for attaching to the subject.
+
+- type: Other
+  items:
+    - name: Lab Equipment
+      type: for Student Use
+      src: /assets/img/equipments.png
+      description: Raspberry Pi 3, Arduino Uno, Soldering Iron Kits, IIIP Mini 3D Printer, Jawbone Wearables, Samsung Galaxy S5.
