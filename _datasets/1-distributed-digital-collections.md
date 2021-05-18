@@ -17,30 +17,33 @@ Additionally, we were unable to evaluate 44 pages because their contents didn’
 These pages could have been placed into the “incorrect” category, but we decided to use an additional category to make our experiment as transparent as possible.
 
 ### Index of Dataset
-- c: correct 917
-- b: blank 140
-- e: error 17
-- d: deceiving pages - malicious intent 43
-- h: directory listings - hello world pages:  18
-- k: kind of correct - changed years 197
-- l: different language 31
-- n: not sure 44
-- s: domain for sale - takeover 17
-- r: redirects 29
-- u: university pages 36
+| Category | Description                            | Count |
+|----------|----------------------------------------|-------|
+| c        | correct                                | 917   |
+| b        | blank                                  | 140   |
+| e        | error                                  | 17    |
+| d        | deceiving pages / malicious intent     | 43    |
+| h        | directory listings / hello world pages | 18    |
+| k        | kind of correct / changed years        | 197   |
+| l        | different language                     | 31    |
+| n        | not sure                               | 44    |
+| s        | domain for sale / takeover             | 17    |
+| r        | redirects                              | 29    |
+| u        | university pages                       | 36    |
 
 ## Copyright Notice
-Copyright © 2017 Sampath Jayarathna.
-All rights reserved.
+```
+Copyright © 2017 Sampath Jayarathna
+All rights reserved
 
 Permission is hereby granted, without written agreement and without license or royalty fees, to use this dataset, provided that the dataset is cited in the bibliography as:
 
-- Sampath Jayarathna, and Faryaneh Poursardar. "Change detection and classification of digital collections." In 2016 IEEE International Conference on Big Data (Big Data), pp. 1750-1759, 2016.
-- Luis Meneses, Sampath Jayarathna, Richard Furuta, and Frank Shipman. "Analyzing the Perceptions of Change in a Distributed Collection of Web Documents." In Proceedings of the 27th ACM Conference on Hypertext and Social Media, pp. 273-278, 2016.
+1. Sampath Jayarathna, and Faryaneh Poursardar. "Change detection and classification of digital collections." In 2016 IEEE International Conference on Big Data (Big Data), pp. 1750-1759, 2016.
+2. Luis Meneses, Sampath Jayarathna, Richard Furuta, and Frank Shipman. "Analyzing the Perceptions of Change in a Distributed Collection of Web Documents." In Proceedings of the 27th ACM Conference on Hypertext and Social Media, pp. 273-278, 2016.
 
 IN NO EVENT SHALL THE AUTHORS BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THIS DATASET AND ITS DOCUMENTATION, EVEN IF THE AUTHORS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 THE AUTHORS SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE DATASET PROVIDED ON AN "AS IS" BASIS, AND THE AUTHORS HAVE NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
+```
 
-## Links
-- Download Dataset [Here](https://nirds.cs.odu.edu/~sampath/dataset/Distributed_Digital_Collections_dataset.zip)
+<a href="https://www.cs.odu.edu/~sampath/dataset/Distributed_Digital_Collections_dataset.zip" target="_blank" class="btn btn-sm btn-outline-primary">Download Dataset</a>
