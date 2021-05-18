@@ -10,7 +10,7 @@ title: "Datasets"
         <div class="card-body">
           <h5 class="card-title"><a href="{{ dataset.url }}">{{ dataset.title }}</a></h5>
           <p class="card-text">
-            {{ dataset.excerpt | strip_html | strip_newlines | truncate: 200}}
+            {{ dataset.description | strip_html | strip_newlines | truncate: 200 }}
             <a href="{{ dataset.url }}">Read more..</a>
           </p>
         </div>
