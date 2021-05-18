@@ -24,6 +24,12 @@
       src: /assets/img/tobii-eyex.jpg
       description: Tobii EyeX is a specialized eye-tracker designed to allow certain aspects of the computing experience to be controlled by your eyes. It uses infrared LEDs and cameras to see your face and track where you are looking at on the screen. That information is used by the EyeX software to control cursor movement on the desktop or camera orientation in games, for example.
 
+    - name: GazePoint GP3
+      manufacturer: GazePoint
+      type: Desktop Eye Tracker
+      src: /assets/img/gazepoint-gp3.jpg
+      description: Gazepoint GP3 eye tracker, 60Hz system, API/SDK included, recommended for eye tracking software developers.
+
 - type: Electroencephalography (EEG)
   items:
     - name: CGX Quick-30
