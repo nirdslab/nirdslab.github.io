@@ -49,7 +49,8 @@ title: "NSF CAREER"
     </ol>
   </div>
 </div>
-
+{%- endfor -%}
+{%- endfor -%}
 
 <h3>Selected Press Coverage</h3>
 <ul>
