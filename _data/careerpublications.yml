@@ -1,0 +1,37 @@
+  - type: "Peer-Reviewed Conference Publications"
+    items:
+      - authors: "Yasith Jayawardana and Sampath Jayarathna"
+        title: "Metadata-Driven Eye Tracking for Real-Time Applications"
+        in: "21st ACM Symposium on Document Engineering (DocEng)"
+        date: "2021"
+        publisher: "ACM"
+        link: ""
+        extra: "(in press)"
+
+  - type: "Peer-Reviewed Posters (Conference) and Workshop Publications"
+    items:
+      - authors: "Bathsheba Farrow and Sampath Jayarathna"
+        title: "Visual Pipeline Modeling in NeuroPype for EEG Data Analysis"
+        in: "12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB)"
+        date: "2021"
+        publisher: "ACM"
+        link: ""
+        extra: "(in press)"
+
+      - authors: "Bathsheba Farrow and Sampath Jayarathna"
+        title: "Sentiment Analysis of Social Media Posts for Mental Health Assessments"
+        in: "12th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB)"
+        date: "2021"
+        publisher: "ACM"
+        link: ""
+        extra: "(in press)"
+        
+      - authors: "Gavindya Jayawardena, Bhanuka Mahanama, and Sampath Jayarathna"
+        title: "Analyzing Unconstrained Reading Patterns of Digital Documents Using Eye Tracking"
+        in: "ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)"
+        date: "2021"
+        publisher: "ACM"
+        link: ""
+        extra: "(in press)"
+
+
