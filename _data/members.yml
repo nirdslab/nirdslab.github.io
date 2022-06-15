@@ -33,6 +33,13 @@
   url: https://www.cs.odu.edu/~bnelson
   category: "PhD Students"
 
+- name: "Yasasi Abeysinghe"
+  img: "/assets/img/team/Yasasi.png"
+  title: "CS PhD Student"
+  interests: "Eye Tracking, Machine Learning, Data Science, HCI"
+  url: https://cs.odu.edu/~cs_yabey001/
+  category: "PhD Students"
+
 - name: "Matt Gray"
   img: "/assets/img/team/mattgray.jpg"
   title: "ECE MS Student"
