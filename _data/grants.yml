@@ -1,5 +1,10 @@
 - type: "External Research Funding"
   grants:
+    - year: "2022-2026"
+      topic: "CAREER: REU Supplement"
+      amount: "$16,000"
+      from: "National Science Foundation"
+      to: "Sampath Jayarathna"
     - year: "2022-2025"
       topic: "REU Site: Research Experiences for Undergraduates in Disinformation Detection and Analytics"
       amount: "$324,000"
