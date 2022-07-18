@@ -1,5 +1,10 @@
 - type: "External Research Funding"
   grants:
+    - year: "2022-2024"
+      topic: "CISE-MSI: RCBP-RF: HCC: Understanding Human Emotions Associated with Attention Activities in Temporal Domain Utilizing Multimodal Data"
+      amount: "$399,910"
+      from: "National Science Foundation"
+      to: "Sampath Jayarathna (Co-PI)"
     - year: "2022-2026"
       topic: "CAREER: REU Supplement"
       amount: "$16,000"
