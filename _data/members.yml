@@ -29,8 +29,8 @@
 - name: "Bathsheba Farrow"
   img: "/assets/img/team/bathsheba.png"
   title: "CS PhD Student"
-  interests: "PTSD, EEG, Eye Tracking"
-  url: https://www.cs.odu.edu/~bnelson
+  interests: "PTSD, EEG, Sentiment Analysis, Cloud Computing"
+  url: https://bathshebafarrow.github.io/
   category: "PhD Students"
 
 - name: "Yasasi Abeysinghe"
