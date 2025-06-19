@@ -5,32 +5,11 @@
   url: https://www.cs.odu.edu/~sampath/
   category: "Faculty"
 
-- name: "Yasith Jayawardana"
-  img: "/assets/img/team/yasith.jpg"
+- name: "Yasasi Abeysinghe"
+  img: "/assets/img/team/Yasasi.jpeg"
   title: "CS PhD Student"
-  interests: "Metadata, Multi Sensory Data, ASD"
-  url: https://www.cs.odu.edu/~cs_pjaya001/
-  category: "PhD Students"
-
-- name: "Gavindya Jayawardena"
-  img: "/assets/img/team/gavindya.png"
-  title: "CS PhD Student"
-  interests: "Eye Tracking, ADHD"
-  url: https://www.cs.odu.edu/~cs_hjaya001/
-  category: "PhD Students"
-
-- name: "Bhanuka Mahanama"
-  img: "/assets/img/team/bhanuka.png"
-  title: "CS PhD Student"
-  interests: "Multi-user eye tracking, Assisted Learning"
-  url: https://www.cs.odu.edu/~cs_rmaha002/
-  category: "PhD Students"
-
-- name: "Bathsheba Farrow"
-  img: "/assets/img/team/bathsheba.png"
-  title: "CS PhD Student"
-  interests: "PTSD, EEG, Sentiment Analysis, Cloud Computing"
-  url: https://bathshebafarrow.github.io/
+  interests: "Eye Tracking, Machine Learning, Data Science, HCI"
+  url: https://cs.odu.edu/~cs_yabey001/
   category: "PhD Students"
 
 - name: "Obiuwevwi Lawrence"
@@ -40,40 +19,68 @@
   url: https://lawobiu.com/
   category: "PhD Students"
 
-- name: "Yasasi Abeysinghe"
-  img: "/assets/img/team/Yasasi.jpeg"
+- name: "Kumushini Thennakoon"
+  img: "/assets/img/team/Kumushini.jpg"
   title: "CS PhD Student"
-  interests: "Eye Tracking, Machine Learning, Data Science, HCI"
-  url: https://cs.odu.edu/~cs_yabey001/
+  interests: "Eye Tracking, Joint Attention, Data Science, HCI"
+  url: https://kumushini.github.io/
   category: "PhD Students"
-
-- name: "Matt Gray"
-  img: "/assets/img/team/mattgray.jpg"
-  title: "ECE MS Student"
-  interests: "First Employement: NASA Langley"
-  url:
-  category: "Masters Students"
-
-- name: "Ibrokhim Iskandarov"
-  img: "/assets/img/team/ibrokhim.jpg"
-  title: "CS MS Student"
-  interests: "Multimodal Sensing"
-  url:
-  category: "Masters Students"
   
 - name: "James Owens"
   img: "/assets/img/team/James.jpg"
   title: "CS UG Student"
   interests: ""
   url:
-  category: "Undergraduate Students"
+  category: "PhD Students"
 
 - name: "Kayla Pineda"
   img: "/assets/img/team/Kayla.jpg"
   title: "CS UG Student"
   interests: ""
   url:
-  category: "Undergraduate Students"
+  category: "Masters Students"
+
+- name: "Bathsheba Farrow"
+  img: "/assets/img/team/bathsheba.png"
+  title: "CS PhD Student"
+  interests: "PTSD, EEG, Sentiment Analysis, Cloud Computing"
+  url: https://bathshebafarrow.github.io/
+  category: "Alumni"
+
+- name: "Yasith Jayawardana"
+  img: "/assets/img/team/yasith.jpg"
+  title: "CS PhD Student"
+  interests: "Metadata, Multi Sensory Data, ASD"
+  url: https://www.cs.odu.edu/~cs_pjaya001/
+  category: "Alumni"
+
+- name: "Gavindya Jayawardena"
+  img: "/assets/img/team/gavindya.png"
+  title: "CS PhD Student"
+  interests: "Eye Tracking, ADHD"
+  url: https://www.cs.odu.edu/~cs_hjaya001/
+  category: "Alumni"
+
+- name: "Bhanuka Mahanama"
+  img: "/assets/img/team/bhanuka.png"
+  title: "CS PhD Student"
+  interests: "Multi-user eye tracking, Assisted Learning"
+  url: https://www.cs.odu.edu/~cs_rmaha002/
+  category: "Alumni"
+
+- name: "Matt Gray"
+  img: "/assets/img/team/mattgray.jpg"
+  title: "ECE MS Student"
+  interests: "First Employement: NASA Langley"
+  url:
+  category: "Alumni"
+
+- name: "Ibrokhim Iskandarov"
+  img: "/assets/img/team/ibrokhim.jpg"
+  title: "CS MS Student"
+  interests: "Multimodal Sensing"
+  url:
+  category: "Alumni"
   
 - name: "Nada Alghofaili"
   img: "/assets/img/team/nada.jpg"
